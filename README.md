@@ -19,4 +19,4 @@ IMAGEN DE LA INTERFAZ
 
 CAPTURA DEL PROGRAMA 
 
-![](ENVIAR_EMAIL/output/captuadeprograma.png)
+![](ENVIAR_EMAIL/output/captuadeprogama.png)
